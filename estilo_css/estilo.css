@@ -1,0 +1,99 @@
+body {
+	background: #dfd6dd;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#principal {
+	background: #ffb000;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+#principal_text {
+	display: inline;
+	font-size: 45px;
+}
+.view_principal {
+	width: 1090px;
+	margin: 0px auto;
+	clear: both;
+
+}
+.conteudo {
+	width: 750px;
+	float: left;
+
+}
+.conteudo_interno {
+	width: 750px;
+	background: white;
+	padding: 10px;
+	margin: 10px 0px;
+}
+.titulo_conteudo {
+	color: #ffb000;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-top: 10px;
+}
+.data_postagem {
+	font-size: 14px;
+	font-weight: normal;
+	margin-top: 0px;
+}
+.imagem{
+	width: 750px;
+}
+.texto {
+	width: 750px;
+}
+.rodape {
+	background: #afafaf;
+	width: 770px;
+	height: 40px;
+	text-align: center;
+	margin: 0px 399px;
+	clear: both;
+}
+.caixas_postagem {
+	width: 300px;
+	background: white;
+	float: right;
+	margin: 10px;
+	padding-bottom: 10px;
+
+}
+.titulo_caixa {
+	background: #afafaf;
+	color: #3d3f35;
+	margin: 10px;
+	padding: 10px;
+}
+.texto_caixa {
+	margin: 10px;
+}
+a {
+	padding: 10px;
+}
+a:link, a:visited {
+	color: #ffb000;
+	padding: 10px;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+#principal a:link, #principal a:visited {
+	font-family: verdana, arial, sans-serif;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+#principal a:hover {
+	background: white;
+	color: #ffb000;
+}
+.link_conteudo {
+	color: #ffb000;
+	padding-left: 0px;
+	text-decoration: none;
+}
